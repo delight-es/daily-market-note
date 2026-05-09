@@ -14,7 +14,7 @@
     ],
     "importance_score": 70,
     "issue_key": "STOCK_SPOTLIGHT_환율1450원재돌파유가급등삼성전자sk하이닉스프리마켓서약",
-    "collected_at": "2026-05-10 00:47:36"
+    "collected_at": "2026-05-10 00:50:19"
   },
   {
     "category": "오늘의관심종목",
@@ -29,7 +29,7 @@
     ],
     "importance_score": 48,
     "issue_key": "STOCK_SPOTLIGHT_국제유가급등에도석유화학관련주장초반약세",
-    "collected_at": "2026-05-10 00:47:36"
+    "collected_at": "2026-05-10 00:50:19"
   },
   {
     "category": "오늘의관심종목",
@@ -43,7 +43,7 @@
     ],
     "importance_score": 42,
     "issue_key": "STOCK_SPOTLIGHT_에스티팜전날급등후차익실현에장초반약세",
-    "collected_at": "2026-05-10 00:47:36"
+    "collected_at": "2026-05-10 00:50:19"
   },
   {
     "category": "오늘의관심종목",
@@ -58,7 +58,7 @@
     ],
     "importance_score": 42,
     "issue_key": "STOCK_SPOTLIGHT_한미반도체오너의자신감주가급등에도자사주또매입",
-    "collected_at": "2026-05-10 00:47:38"
+    "collected_at": "2026-05-10 00:50:21"
   },
   {
     "category": "오늘의관심종목",
@@ -73,7 +73,7 @@
     ],
     "importance_score": 35,
     "issue_key": "STOCK_SPOTLIGHT_삼성전자sk하이닉스유가상승에뉴욕증시하락약세",
-    "collected_at": "2026-05-10 00:47:36"
+    "collected_at": "2026-05-10 00:50:19"
   },
   {
     "category": "미국증시",
@@ -93,7 +93,7 @@
     ],
     "importance_score": 54,
     "issue_key": "US_STOCK_RALLY",
-    "collected_at": "2026-05-10 00:47:40"
+    "collected_at": "2026-05-10 00:50:23"
   },
   {
     "category": "미국증시",
@@ -112,7 +112,7 @@
     ],
     "importance_score": 49,
     "issue_key": "US_STOCK_RALLY",
-    "collected_at": "2026-05-10 00:47:40"
+    "collected_at": "2026-05-10 00:50:23"
   },
   {
     "category": "금리환율",
@@ -129,7 +129,7 @@
     ],
     "importance_score": 31,
     "issue_key": "USD_KRW_EXCHANGE_RATE",
-    "collected_at": "2026-05-10 00:47:41"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "세계경제",
@@ -145,7 +145,7 @@
     ],
     "importance_score": 25,
     "issue_key": "GLOBAL_FOOD_PRICE",
-    "collected_at": "2026-05-10 00:47:42"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "세계경제",
@@ -160,7 +160,7 @@
     ],
     "importance_score": 25,
     "issue_key": "KOSPI_RALLY",
-    "collected_at": "2026-05-10 00:47:42"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "국내경제_RSS",
@@ -176,7 +176,7 @@
     ],
     "importance_score": 22,
     "issue_key": "KOSPI_RALLY",
-    "collected_at": "2026-05-10 00:47:48"
+    "collected_at": "2026-05-10 00:50:30"
   },
   {
     "category": "금리환율",
@@ -190,7 +190,7 @@
     ],
     "importance_score": 20,
     "issue_key": "USD_KRW_EXCHANGE_RATE",
-    "collected_at": "2026-05-10 00:47:41"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "세계경제",
@@ -206,7 +206,7 @@
     ],
     "importance_score": 20,
     "issue_key": "GLOBAL_FOOD_PRICE",
-    "collected_at": "2026-05-10 00:47:42"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "국내경제_RSS",
@@ -222,7 +222,7 @@
     ],
     "importance_score": 20,
     "issue_key": "OIL_PRICE_MIDDLE_EAST",
-    "collected_at": "2026-05-10 00:47:48"
+    "collected_at": "2026-05-10 00:50:30"
   },
   {
     "category": "금리환율",
@@ -236,7 +236,7 @@
     ],
     "importance_score": 19,
     "issue_key": "US_JOBS_RATE_EXPECTATION",
-    "collected_at": "2026-05-10 00:47:41"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "금리환율",
@@ -251,7 +251,7 @@
     ],
     "importance_score": 17,
     "issue_key": "금리환율_30년물국채금리5돌파월가파멸의문열렸다",
-    "collected_at": "2026-05-10 00:47:41"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "전력기기",
@@ -267,7 +267,7 @@
     ],
     "importance_score": 17,
     "issue_key": "SEMICONDUCTOR_AI",
-    "collected_at": "2026-05-10 00:47:45"
+    "collected_at": "2026-05-10 00:50:27"
   },
   {
     "category": "세계경제",
@@ -281,21 +281,7 @@
     ],
     "importance_score": 16,
     "issue_key": "OIL_PRICE_MIDDLE_EAST",
-    "collected_at": "2026-05-10 00:47:42"
-  },
-  {
-    "category": "국내경제",
-    "source": "GoogleNewsRSS",
-    "title": "고용·물가·가계대출 지표 공개…경기 흐름 분기점",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ORWNENVU4VGhiNGxVcmhMZlZ3YUxna0diTVlYTktfVEZSYXBVZDMyX1VzMVdRVU83aVlxaTdQR0haMHRqUzVzckxrX0JQQlI4bVBWWWF5X1hiZ3VyZGZVWmc2SHBtclUtTWRqZ2Zjd1_SAXRBVV95cUxOZVlBbnhoR3pJVEI3WEFXX3BBSld5UmRaVW4zNzJYQUxhYVQwY0N0TnF6WmdJdWl3Rk5PRkFIYzBhZmF2d3VnU2I1dFFtemstSEdXcUd1eTJPQVJMSmR2eTVnd0xfeUNXU1FMMUswbDFNMWRBMg?oc=5",
-    "published": "Sat, 09 May 2026 02:57:33 GMT",
-    "matched_keywords": [
-      "물가",
-      "고용"
-    ],
-    "importance_score": 16,
-    "issue_key": "DOMESTIC_CONSUMER_ECONOMY",
-    "collected_at": "2026-05-10 00:47:43"
+    "collected_at": "2026-05-10 00:50:24"
   },
   {
     "category": "국내증시",
@@ -309,7 +295,7 @@
     ],
     "importance_score": 15,
     "issue_key": "국내증시_코스피시총6143조전국아파트시총과나란히",
-    "collected_at": "2026-05-10 00:47:39"
+    "collected_at": "2026-05-10 00:50:22"
   },
   {
     "category": "미국증시",
@@ -323,7 +309,7 @@
     ],
     "importance_score": 15,
     "issue_key": "미국증시_마이클버리michaelburry뉴욕증시공매도선전포고",
-    "collected_at": "2026-05-10 00:47:40"
+    "collected_at": "2026-05-10 00:50:23"
   },
   {
     "category": "국내경제",
@@ -337,7 +323,7 @@
     ],
     "importance_score": 15,
     "issue_key": "DOMESTIC_CONSUMER_ECONOMY",
-    "collected_at": "2026-05-10 00:47:43"
+    "collected_at": "2026-05-10 00:50:25"
   },
   {
     "category": "전력기기",
@@ -353,7 +339,7 @@
     ],
     "importance_score": 14,
     "issue_key": "SEMICONDUCTOR_AI",
-    "collected_at": "2026-05-10 00:47:45"
+    "collected_at": "2026-05-10 00:50:27"
   },
   {
     "category": "기업이슈",
@@ -367,7 +353,7 @@
     ],
     "importance_score": 13,
     "issue_key": "CORPORATE_EARNINGS",
-    "collected_at": "2026-05-10 00:47:48"
+    "collected_at": "2026-05-10 00:50:30"
   },
   {
     "category": "기업이슈",
@@ -381,6 +367,20 @@
     ],
     "importance_score": 13,
     "issue_key": "CORPORATE_EARNINGS",
-    "collected_at": "2026-05-10 00:47:48"
+    "collected_at": "2026-05-10 00:50:30"
+  },
+  {
+    "category": "전력기기",
+    "source": "GoogleNewsRSS",
+    "title": "효성, 美 초고압변압기 점유율 1위…사상 최대 실적",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGMUNIZlF3anZoM2NOcUZpSlpXc3ZkaTgwYXRJVEdOaEl5NTFSdWlnTmx3SlhGNjk2U1VxdEkyY0lJcENYMng4OU9JWlFOLXRXaTIwODQwN2k3Z9IBVEFVX3lxTFBtUEMzSUNmOU9wQVpyVjFGa2lBeF80WU1xWU5nNVdrZzR6bDJpTkk4WmY4eVRXVlFYTXVWaHQ1VU9ySDRLUmw5UThfUWloMUFUZk9HWA?oc=5",
+    "published": "Tue, 05 May 2026 07:30:47 GMT",
+    "matched_keywords": [
+      "변압기",
+      "실적"
+    ],
+    "importance_score": 12,
+    "issue_key": "POWER_INFRA",
+    "collected_at": "2026-05-10 00:50:27"
   }
 ]
